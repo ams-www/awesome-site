@@ -1,6 +1,6 @@
 # Awesome-Site Template
 
-![Demo Screenshot](https://via.placeholder.com/800x600/2b6cb0/ffffff?text=Awesome-Site-Demo)  
+![Custom Example](https://raw.githubusercontent.com/Linux-jam/Photo-Gallery/refs/heads/main/awesome-site-demo.png)  
 *A modern, responsive personal website template*
 
 ## ✨ Features
