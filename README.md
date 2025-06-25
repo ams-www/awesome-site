@@ -64,5 +64,3 @@ MIT © 2025 [AM Software Team](https://github.com/AM-Software-Team)
 
 ---
 
-💡 **Pro Tip**: Pair with [Simple Analytics](https://simpleanalytics.com/) for privacy-friendly tracking!
-```
