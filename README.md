@@ -61,6 +61,3 @@ body { background: linear-gradient(120deg, #2b6cb0 0%, #63b3ed 100%); }
 MIT © 2025 [AM Software Team](https://github.com/AM-Software-Team)
 
 > "Perfect for developers, creators, and professionals who want a polished web presence without complexity."
-
----
-
