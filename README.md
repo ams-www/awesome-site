@@ -1,5 +1,6 @@
 # Awesome-Site Template
 
+Custom Example:
 ![Custom Example](https://raw.githubusercontent.com/Linux-jam/Photo-Gallery/refs/heads/main/awesome-site-demo.png)  
 *A modern, responsive personal website template*
 
