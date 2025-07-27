@@ -59,6 +59,6 @@ body { background: linear-gradient(120deg, #2b6cb0 0%, #63b3ed 100%); }
 ✅ **Performance Optimized** - 95+ Lighthouse score out-of-the-box  
 
 ## 📜 License
-MIT © 2025 [AM Software Team](https://github.com/ams-www)
+Unlicense @ 2025 [AM Software Team](https://github.com/ams-www)
 
 > "Perfect for developers, creators, and professionals who want a polished web presence without complexity."
